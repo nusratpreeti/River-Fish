@@ -1,0 +1,13 @@
+
+    
+
+
+
+.card{
+    box-shadow: 0 5px 10px 0 rgba(0,0,0,15);
+}
+
+   .card-img{
+    padding-bottom: 56.25%;
+    position: relative;
+   }
